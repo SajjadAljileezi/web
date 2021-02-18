@@ -1,0 +1,44 @@
+<?xml version="1.0"?><svg width="2771.8586" height="2771.8586" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Sun rays</title>
+ <defs>
+  <filter id="filter5498" x="-0.342857" width="1.685714" y="-0.342857" height="1.685714" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="86.122445" id="feGaussianBlur5500"/>
+  </filter>
+  <linearGradient id="linearGradient5486">
+   <stop offset="0" id="stop5488" stop-color="#fa7220"/>
+   <stop offset="1" id="stop5490" stop-opacity="0.240876" stop-color="#f3ee22"/>
+  </linearGradient>
+  <radialGradient xlink:href="#linearGradient5486" id="radialGradient5492" cx="-1323.7039" cy="4067.4656" fx="-1323.7039" fy="4067.4656" r="1386.4293" gradientTransform="translate(0,1.0268197e-5)" gradientUnits="userSpaceOnUse"/>
+  <linearGradient spreadMethod="pad" id="svg_2">
+   <stop offset="0" stop-color="#8fc1d3"/>
+   <stop stop-opacity="0.996094" offset="1" stop-color="#fcfaf9"/>
+  </linearGradient>
+  <linearGradient spreadMethod="pad" id="svg_3">
+   <stop offset="0" stop-color="#8fc1d3"/>
+   <stop stop-opacity="0.996094" offset="0.996094" stop-color="#f4f1ef"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata4768">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <g id="g5502">
+    <g id="g4962" fill="url(#radialGradient5492)">
+     <path stroke="#56ffff" stroke-width="0" d="m1280.792236,2762.858887l226.27417,0l-113.137085,-1436.84082l-113.137085,1436.84082zm0,-2771.858646l226.27417,0l-113.137085,1436.841068l-113.137085,-1436.841068z" id="use4891" fill="url(#svg_2)"/>
+     <path stroke="#56ffff" stroke-width="0" d="m925.942383,2686.352051l218.563965,58.563965l262.599854,-1417.164063l-481.163818,1358.600098zm717.40979,-2677.409911l218.564087,58.564208l-481.16394,1358.599609l262.599854,-1417.163817z" id="use4895" fill="url(#svg_2)"/>
+     <path stroke="#56ffff" stroke-width="0" d="m602.984985,2520.61084l195.959229,113.137207l620.440918,-1300.909668l-816.400146,1187.772461zm1385.929321,-2400.5l195.959229,113.137207l-816.400146,1187.772461l620.440918,-1300.909668z" id="use4899" fill="url(#svg_2)"/>
+     <path stroke="#56ffff" stroke-width="0" d="m333.929321,2276.929199l160,160l936.000122,-1096l-1096.000122,936zm1959.999878,-1960l160,160l-1095.999878,936l935.999878,-1096z" id="use4903" fill="url(#svg_2)"/>
+     <path stroke="#56ffff" stroke-width="0" d="m137.113159,1971.914063l113.130127,195.959961l1187.779907,-816.400391l-1300.910034,620.44043zm2400.498169,-1385.930176l113.136475,195.959961l-1300.904541,620.439941l1187.768066,-816.399902l0,0z" id="use4907" fill="url(#svg_2)"/>
+     <path stroke="#56ffff" stroke-width="0" d="m25.943239,1626.354004l58.560064,218.560059l1358.599846,-481.160156l-1417.15991,262.600098zm2677.4093,-717.410156l58.563721,218.560059l-1417.162964,262.599609l1358.598755,-481.159668l0.000488,0z" id="use4911" fill="url(#svg_2)"/>
+     <path stroke="#56ffff" stroke-width="0" d="m8.0033,1263.793945l0,226.27002l1436.83984,-113.130371l-1436.83984,-113.139648zm2771.855099,0l0,226.27002l-1436.845093,-113.130371l1436.845093,-113.139648l0,0z" id="use4915" fill="url(#svg_2)"/>
+     <path stroke="#56ffff" stroke-width="0" d="m84.503304,908.943848l-58.560064,218.560059l1417.15991,262.599609l-1358.599846,-481.159668zm2677.412956,717.410156l-58.564209,218.560059l-1358.598755,-481.160156l1417.162964,262.600098l0,0z" id="use4919" fill="url(#svg_2)"/>
+     <path stroke="#56ffff" stroke-width="0" d="m250.243286,585.983887l-113.130127,195.959961l1300.910034,620.439941l-1187.779907,-816.399902zm2400.504517,1385.930176l-113.136475,195.959961l-1187.768066,-816.400391l1300.904541,620.44043l0,0z" id="use4923" fill="url(#svg_2)"/>
+     <path stroke="#56ffff" stroke-width="0" d="m493.933228,316.933838l-160,160l1096,936.000244l-936,-1096.000244zm1959.995972,1960.000244l-160,160l-935.995972,-1096.000488l1095.995972,936.000488l0,0z" id="use4927" fill="url(#svg_2)"/>
+     <path stroke="#56ffff" stroke-width="0" d="m798.944336,120.11084l-195.959106,113.137207l816.400024,1187.772461l-620.440918,-1300.909668zm1385.929199,2400.5l-195.958984,113.137207l-620.44104,-1300.909668l816.400024,1187.772461z" id="use4931" fill="url(#svg_2)"/>
+     <path stroke="#56ffff" stroke-width="0" d="m1144.50647,8.94238l-218.564087,58.563968l481.16394,1358.600098l-262.599854,-1417.164065zm717.40979,2677.410159l-218.564087,58.563965l-262.599854,-1417.164063l481.16394,1358.600098z" id="use4935" fill="url(#svg_2)"/>
+    </g>
+    <path d="m1695.35791,1341.473267c0,166.474365 -134.954224,301.428589 -301.428589,301.428589c-166.474365,0 -301.428467,-134.954224 -301.428467,-301.428589c0,-166.474487 134.954102,-301.428589 301.428467,-301.428589c166.474365,0 301.428589,134.954102 301.428589,301.428589z" id="path4773" filter="url(#filter5498)" stroke-dashoffset="0" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="0" stroke="#56ffff" fill="url(#svg_3)"/>
+   </g>
+  </g>
+ </g>
+</svg>
