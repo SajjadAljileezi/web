@@ -1,15 +1,15 @@
 <template>
-    <div class="img-header">
-<div class="container header">
-    <div class="row">
-<!--        <img :src="src">-->
-        <div class="col-md-6">hi</div>
-        <div class="col-md-6  "> hi</div>
+<!--    <div class="img-header">-->
+<!--<div class="container header">-->
+<!--    <div class="row">-->
+<!--&lt;!&ndash;        <img :src="src">&ndash;&gt;-->
+<!--        <div class="col-md-6">hi</div>-->
+<!--        <div class="col-md-6  "> hi</div>-->
 
-    </div>
-</div>
+<!--    </div>-->
+<!--</div>-->
 
-    </div>
+<!--    </div>-->
 </template>
 
 <script>

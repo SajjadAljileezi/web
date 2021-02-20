@@ -29,18 +29,19 @@
             </ul>
         </div>
     </nav>
-<!--        <div class="row">-->
-<!--            <div class="col-lg-12 ">-->
-<!--                <div class="img-nav d-flex justify-content-end"></div>-->
-<!--            </div>-->
-<!--        </div>-->
 
 
     </div>
-        <div class="d-flex">
-
+        <div class="d-flex bd-highlight mb-3">
+            <div class="mr-auto p-2 bd-highlight">Flex item</div>
             <div class="ml-auto p-2"><img :src="src"></div>
         </div>
+
+
+<!--        <div class="d-flex">-->
+<!--            <div class="p-2 flex-grow-1 bd-highlight">Flex item</div>-->
+<!--            <div class="p-2 bd-highlight">Third flex item</div>-->
+<!--        </div>-->
 </div>
 </template>
 
@@ -50,7 +51,7 @@
 export default {
     data(){
         return{
-            src:"./img/header.svg"
+            src:"./img/header.png"
         }
     }
 

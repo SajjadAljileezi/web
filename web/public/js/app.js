@@ -12009,10 +12009,11 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   data: function data() {
     return {
-      src: "./img/header.svg"
+      src: "./img/header.png"
     };
   }
 });
@@ -47651,24 +47652,9 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c("div")
 }
-var staticRenderFns = [
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "img-header" }, [
-      _c("div", { staticClass: "container header" }, [
-        _c("div", { staticClass: "row" }, [
-          _c("div", { staticClass: "col-md-6" }, [_vm._v("hi")]),
-          _vm._v(" "),
-          _c("div", { staticClass: "col-md-6  " }, [_vm._v(" hi")])
-        ])
-      ])
-    ])
-  }
-]
+var staticRenderFns = []
 render._withStripped = true
 
 
@@ -47765,7 +47751,11 @@ var render = function() {
       )
     ]),
     _vm._v(" "),
-    _c("div", { staticClass: "d-flex" }, [
+    _c("div", { staticClass: "d-flex bd-highlight mb-3" }, [
+      _c("div", { staticClass: "mr-auto p-2 bd-highlight" }, [
+        _vm._v("Flex item")
+      ]),
+      _vm._v(" "),
       _c("div", { staticClass: "ml-auto p-2" }, [
         _c("img", { attrs: { src: _vm.src } })
       ])
